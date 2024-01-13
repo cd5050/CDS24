@@ -1,1 +1,1 @@
-# CDS24-Torricelli
+# CDS24
